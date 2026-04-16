@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>FFFF97</corfondo>
+        <corbanda>800000</corbanda>
+        <cornavega>800000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>DIGITAÇÃO</titulo>
+        <iden>COLÉGIO SÃO BENTO</iden>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CERTO</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>45</tipo>
+              <cabeceira>DIGITE:</cabeceira>
+              <imaxe>Screenshot_2.jpg</imaxe>
+            <forma>1</forma>
+            <modo>1</modo>
+              <texto son=""><![CDATA[OVO]]></texto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>45</tipo>
+              <cabeceira>DIGITE:</cabeceira>
+              <imaxe>Screenshot_4.jpg</imaxe>
+            <forma>1</forma>
+            <modo>1</modo>
+              <texto son=""><![CDATA[SINO]]></texto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>45</tipo>
+              <cabeceira>DIGITE:</cabeceira>
+              <imaxe>Screenshot_3.jpg</imaxe>
+            <forma>1</forma>
+            <modo>1</modo>
+              <texto son=""><![CDATA[NAVIO]]></texto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>45</tipo>
+              <cabeceira>DIGITE:</cabeceira>
+              <imaxe>Screenshot_4.jpg</imaxe>
+            <forma>1</forma>
+            <modo>1</modo>
+              <texto son=""><![CDATA[CORUJA]]></texto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>45</tipo>
+              <cabeceira>DIGITE:</cabeceira>
+              <imaxe>Screenshot_1.jpg</imaxe>
+            <forma>1</forma>
+            <modo>1</modo>
+              <texto son=""><![CDATA[MORANGO]]></texto>
+        </paxina>
+    </libro>
+</lim>
